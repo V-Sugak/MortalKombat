@@ -8,7 +8,7 @@ const $player1 = {
 }
 
 const $player2 = {
-    class: 'player2',
+    class: 'player2', 
     name: 'Misha',
     hp: 100,
     img: 'http://reactmarathon-api.herokuapp.com/assets/scorpion.gif',
